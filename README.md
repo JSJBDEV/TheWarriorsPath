@@ -1,9 +1,7 @@
-# Fabric Example Mod
+# The Warriors Path
 
-## Setup
+A silly mod that (will) add an Astral Sorcery like stat tree that players can use to gain benefits in certain category, vaguely themed around the Chinese zodiac, giving static and active effects
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+<br>
+"One day I'll finish one of my new mods"
 
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
